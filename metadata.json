@@ -1,0 +1,9 @@
+{
+  "name": "Copy of CropShieldAI",
+  "description": "AI-powered crop pest detection and treatment advisor for farmers. Upload a photo to instantly identify pests and get localized, weather-aware protection plans.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera",
+    "microphone"
+  ]
+}
