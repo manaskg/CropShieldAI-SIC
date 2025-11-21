@@ -35,7 +35,7 @@ const Home: React.FC<HomeProps> = ({ onNavigate }) => {
     <div className={`flex flex-col min-h-screen ${isIndic ? 'font-bengali' : 'font-sans'}`}>
       
       {/* --- Hero Section --- */}
-      <section className="relative h-[85vh] min-h-[600px] flex items-center justify-center overflow-hidden bg-stone-900 pt-20">
+      <section className="relative h-[85vh] min-h-[600px] flex items-center justify-center overflow-hidden bg-stone-900 pt-36 md:pt-20">
         
         <div className="absolute inset-0 z-0">
            <img 
