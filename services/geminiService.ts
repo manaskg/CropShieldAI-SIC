@@ -238,7 +238,6 @@ export const generatePestAudioExplanation = async (
     6. **Caution**: "Friend, one important thing. Please tie a cloth on your mouth while spraying. Your health is wealth."
     7. **Farewell**: End with "${farewell}".
 
-    Generate only the text script for the audio.
     `;
 
     try {
